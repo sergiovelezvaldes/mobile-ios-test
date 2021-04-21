@@ -1,0 +1,60 @@
+{
+  "Mac" : [
+    {
+      "swiftToolchainVersion" : "5.3.2 (swiftlang-1200.0.45 clang-1200.0.32.28)",
+      "hash" : "09499905c4bf87a9430b48fa5fd6c0320293687043296a301c0f9c25718c03ad",
+      "name" : "Swinject",
+      "container" : "Swinject.xcframework",
+      "identifier" : "macos-arm64_x86_64"
+    }
+  ],
+  "watchOS" : [
+    {
+      "swiftToolchainVersion" : "5.3.2 (swiftlang-1200.0.45 clang-1200.0.32.28)",
+      "hash" : "7d0af606922349f7210f05f230e9c1358cbf1f177f62d516205b09d9fc183b45",
+      "name" : "Swinject",
+      "container" : "Swinject.xcframework",
+      "identifier" : "watchos-arm64_i386_x86_64-simulator"
+    },
+    {
+      "swiftToolchainVersion" : "5.3.2 (swiftlang-1200.0.45 clang-1200.0.32.28)",
+      "hash" : "90efaaec0e1280f130c5cb04ce9b0c47206a965613d856dac2b3ff46cf0d3906",
+      "name" : "Swinject",
+      "container" : "Swinject.xcframework",
+      "identifier" : "watchos-arm64_32_armv7k"
+    }
+  ],
+  "tvOS" : [
+    {
+      "swiftToolchainVersion" : "5.3.2 (swiftlang-1200.0.45 clang-1200.0.32.28)",
+      "hash" : "493bef7e42d15dec1d8fba0449245fdbd352129d0394f9f0337f2d6965fa8539",
+      "name" : "Swinject",
+      "container" : "Swinject.xcframework",
+      "identifier" : "tvos-arm64_x86_64-simulator"
+    },
+    {
+      "swiftToolchainVersion" : "5.3.2 (swiftlang-1200.0.45 clang-1200.0.32.28)",
+      "hash" : "c5336711bba764eb297437fabde6193d677b0c2b24faff7d2a13d63e14f0ade6",
+      "name" : "Swinject",
+      "container" : "Swinject.xcframework",
+      "identifier" : "tvos-arm64"
+    }
+  ],
+  "commitish" : "2.7.1",
+  "iOS" : [
+    {
+      "swiftToolchainVersion" : "5.3.2 (swiftlang-1200.0.45 clang-1200.0.32.28)",
+      "hash" : "9cbbd4dc5b844b0ca1e2021695df3aaca26f9a250f686c09c22275b11e4abd5c",
+      "name" : "Swinject",
+      "container" : "Swinject.xcframework",
+      "identifier" : "ios-arm64_armv7"
+    },
+    {
+      "swiftToolchainVersion" : "5.3.2 (swiftlang-1200.0.45 clang-1200.0.32.28)",
+      "hash" : "30287ecb03f47611b522b165251ca4a87e8d9d1406e3031d160dd853cc6058e8",
+      "name" : "Swinject",
+      "container" : "Swinject.xcframework",
+      "identifier" : "ios-arm64_i386_x86_64-simulator"
+    }
+  ]
+}
